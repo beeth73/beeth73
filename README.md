@@ -25,5 +25,7 @@ I am an engineer focused on the intersection of **AI** and **Cybersecurity**. I 
 ---
 
 ### 📊 Github Stats
-![Bhushan's Stats](https://github-readme-stats.vercel.app/api?username=beeth73&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beeth73&layout=compact&theme=dark&hide_border=true)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=beeth73&show_icons=true&theme=dark&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beeth73&layout=compact&theme=dark&hide_border=true" height="180" alt="langs" />
+</div>
