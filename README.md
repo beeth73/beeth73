@@ -21,4 +21,4 @@ I am an engineer focused on the intersection of **AI** and **Cybersecurity**. I 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=beeth73&color=white)
+![Profile Views](https://komarev.com/ghpvc/?username=beeth73&color=red&style=for-the-badge)
