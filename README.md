@@ -23,4 +23,4 @@ I am an engineer focused on the intersection of **AI** and **Cybersecurity**. I 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=beeth73&color=red&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=beeth73&color=red&style=pixel)
