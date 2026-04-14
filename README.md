@@ -1,7 +1,7 @@
 ### ~/Bhushan_Ladgaonkar
 
 > *"प्रयास हा प्रतिभेचा प्राणवायू आहे." - पु. ल. देशपांडे*  
-> *("Effort is the oxygen of talent" - P. L. Deshpande)*
+> *("Effort is the oxygen of talent." - P. L. Deshpande)*
 
 **Computer Engineering Student | Offensive Security | Machine Learning**
 
@@ -21,6 +21,7 @@ I am an engineer focused on the intersection of **AI** and **Cybersecurity**, wi
 
 **AI, Data Science & Simulation**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![MLX](https://img.shields.io/badge/Apple_MLX-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -46,8 +47,12 @@ I am an engineer focused on the intersection of **AI** and **Cybersecurity**, wi
 ---
 
 ### 🌐 Connect 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhushanladgaonkar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhushan-ladgaonkar) 
+[![Resume](https://img.shields.io/badge/Resume_PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/beeth73/CV/blob/main/hyperlink/Bhushan_Ladgaonkar_Resume.pdf)
 [![Website](https://img.shields.io/badge/Terminal_Portfolio-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://beeth73.github.io/10611/)
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=beeth73&color=blue&style=flat-square)
 
