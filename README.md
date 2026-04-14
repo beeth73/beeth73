@@ -49,7 +49,7 @@ I am an engineer focused on the intersection of **AI** and **Cybersecurity**, wi
 ### 🌐 Connect 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhushanladgaonkar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhushan-ladgaonkar) 
-[![Resume](https://img.shields.io/badge/Resume_PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/beeth73/CV/blob/main/hyperlink/Bhushan_Ladgaonkar_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume_PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://beeth73.github.io/10611/Bhushan_Ladgaonkar_Resume.pdf)
 [![Website](https://img.shields.io/badge/Terminal_Portfolio-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://beeth73.github.io/10611/)
 
 <br>
